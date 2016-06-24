@@ -17,6 +17,10 @@
 
 @implementation ViewController
 
+-(void)testGithub{
+//  这是测试github
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
