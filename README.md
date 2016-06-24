@@ -1,3 +1,3 @@
 # myFirstRepository
-这是一个reposity测试
+这是一个repository测试
 mdzz
