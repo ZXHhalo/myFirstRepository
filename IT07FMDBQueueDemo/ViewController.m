@@ -13,6 +13,8 @@
 @property (strong, nonatomic) FMDatabaseQueue *queue;
 @property (strong, nonatomic) FMDatabase *dataBase;
 @property (strong, nonatomic) NSLock *lock;
+@property (strong, nonatomic) NSString *testChange;
+
 @end
 
 @implementation ViewController
